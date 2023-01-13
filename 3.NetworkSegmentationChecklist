@@ -1,0 +1,27 @@
+<h4> Network Segmentation To-Do List/Checklist</h4>
+
+1. Define the different segments of your network and the specific security requirements for each.
+2. Use VLANs and subnetting to physically separate different segments of your network.
+3. Use access control lists (ACLs) to control traffic flow between different segments of your network.
+4. Use firewalls to enforce security policies between different segments of your network.
+5. Use network-based intrusion detection and prevention systems (IDPS) to detect and block malicious traffic between different segments of your network.
+6. Use virtual private network (VPN) technology to secure remote access to different segments of your network.
+7. Use proxy servers to control and secure access to the Internet from different segments of your network.
+8. Use wireless access points and wireless LAN controllers to securely segment wireless traffic.
+9. Use segment-specific security devices such as intrusion detection and prevention (IDP) and security information and event management (SIEM) systems.
+10. Use network segmentation to separate sensitive data and systems from less sensitive ones.
+11. Use network segmentation to limit the potential impact of a security breach.
+12. Implement network segmentation for critical infrastructure and industrial control systems.
+13. Implement network segmentation for cloud environments.
+14. Use network segmentation to separate test and development environments from production environments.
+15. Use network segmentation to separate guest and employee networks.
+16. Use network segmentation to separate IoT devices from other parts of the network.
+17. Use network segmentation to separate mobile devices from other parts of the network.
+18. Use network segmentation to separate virtual machines from other parts of the network.
+19. Use network segmentation to separate Internet of Things (IoT) devices from other parts of the network.
+20. Use Network Access Control (NAC) to restrict access to specific segments of the network based on user identity or device posture.
+21. Use software-defined segmentation to create dynamic security zones based on application or user activity
+22. Use zero trust network access model to provide secure access to the network.
+23. Use Network Function Virtualization (NFV) to segment the network and apply security policies.
+24. Use firewall and VPN gateway to segment the network and apply security policies.
+25. Use network segmentation to comply with industry standards and regulations such as PCI-DSS and HIPAA.
